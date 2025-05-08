@@ -1,7 +1,6 @@
 # Chart Dashboard UI
 
-A visually rich and interactive financial chart dashboard built with **React**, **TypeScript**, **Vite**, **MUI**, and **Chart.js**. This project replicates a modern interface for tracking asset prices with full interactivity.
-
+A visually rich and interactive financial chart dashboard built with **React**, **TypeScript**, **Vite**, **MUI**, and **Chart.js**.
 ---
 
 ##  Features
